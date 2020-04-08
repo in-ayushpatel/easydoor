@@ -1,0 +1,9 @@
+
+.wrapper{
+    padding: 40px;
+    display:grid;
+    grid-gap: 3rem;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+}
+
